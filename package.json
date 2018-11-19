@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matthew McQuain",
   "license": "ISC",
   "dependencies": {
     "babel-env": "^2.4.1",
